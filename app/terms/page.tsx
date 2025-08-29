@@ -33,7 +33,7 @@ export default function Terms() {
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">2. Eligibility</h2>
             <p className="text-gray-600 mb-4">You must meet the following requirements to use our Service:</p>
             <ul className="list-disc pl-6 text-gray-600 space-y-2">
-              <li>Be at least 13 years of age (or the minimum age required in your jurisdiction)</li>
+              {/* <li>Be at least 13 years of age (or the minimum age required in your jurisdiction)</li> */}
               <li>Have the legal capacity to enter into binding agreements</li>
               <li>Not be prohibited from using the Service under applicable laws</li>
               <li>Comply with all local, state, national, and international laws and regulations</li>
