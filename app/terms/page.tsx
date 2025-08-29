@@ -34,7 +34,7 @@ export default function Terms() {
             <p className="text-gray-600 mb-4">You must meet the following requirements to use our Service:</p>
             <ul className="list-disc pl-6 text-gray-600 space-y-2">
               {/* <li>Be at least 13 years of age (or the minimum age required in your jurisdiction)</li> */}
-              <li>Have the legal capacity to enter into binding agreements</li>
+              {/* <li>Have the legal capacity to enter into binding agreements</li> */}
               <li>Not be prohibited from using the Service under applicable laws</li>
               <li>Comply with all local, state, national, and international laws and regulations</li>
             </ul>
@@ -230,7 +230,7 @@ export default function Terms() {
                 If you have any questions about these Terms of Service, please contact us:
               </p>
               <div className="space-y-2 text-gray-600">
-                <p><strong>Email:</strong> <span className="text-gray-700">brianna@eshalore.com</span></p>
+                <p><strong>Email:</strong> <span className="text-gray-700">info@eshalore.com</span></p>
               </div>
             </div>
           </section>

@@ -154,7 +154,7 @@ export default function Support() {
               <h3 className="text-lg font-semibold text-gray-900">Email Support</h3>
             </div>
             <span className="text-xl font-medium text-red-600">
-              brianna@eshalore.com
+              info@eshalore.com
             </span>
           </div>
           <div className="text-sm text-gray-500">

@@ -154,7 +154,7 @@ export default function Privacy() {
                 If you have any questions about this Privacy Policy or our data practices, please contact us:
               </p>
               <div className="space-y-2 text-gray-600">
-                <p><strong>Email:</strong> <span className="text-gray-700">brianna@eshalore.com</span></p>
+                <p><strong>Email:</strong> <span className="text-gray-700">info@eshalore.com</span></p>
               </div>
             </div>
           </section>
