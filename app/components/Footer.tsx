@@ -52,6 +52,16 @@ export default function Footer({ currentPath = "/" }: FooterProps) {
           >
             Terms
           </Link>
+          <Link 
+            href="/contact" 
+            className={`${
+              isActive('/contact') 
+                ? 'text-white' 
+                : 'text-gray-400 hover:text-white'
+            } transition-colors`}
+          >
+            Contact Us
+          </Link>
         </div>
         <div className="flex flex-col items-center space-y-3">
           <div className="flex items-center space-x-2">

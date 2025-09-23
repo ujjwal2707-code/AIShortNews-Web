@@ -55,6 +55,16 @@ export default function Navigation({ currentPath = "/" }: NavigationProps) {
             >
               Terms
             </Link>
+            <Link 
+              href="/contact" 
+              className={`${
+                isActive('/contact') 
+                  ? 'text-red-600 font-medium' 
+                  : 'text-gray-600 hover:text-gray-900'
+              } transition-colors`}
+            >
+              Contact Us
+            </Link>
           </div>
         </div>
       </div>
